@@ -28,7 +28,8 @@ This project analyzes coffee shop sales data using Microsoft Excel to identify s
 
 ## 📷 Dashboard Preview
 
-Screenshot 2026-05-14 210748.png
+![Dashboard Preview](Screenshot%202026-05-14%20210748.png)
+
 
 ---
 
